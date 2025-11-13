@@ -19,8 +19,7 @@
 #### Database Servers: 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lintankwgbn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=lintankwgbn&theme=dark&hide_border=false)
@@ -28,6 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lintankwgbn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lintankwgbn&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lintankwgbn&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
